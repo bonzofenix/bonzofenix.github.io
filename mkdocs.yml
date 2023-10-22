@@ -1,6 +1,6 @@
-site_name: your_site_name # Change this to your site name
-site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_name: bonzofenix
+site_description: My personal note
+site_url: https://bonzofenix.github.io/ # Change this to your site URL
 
 theme:
     name: 'material'
@@ -38,7 +38,7 @@ theme:
         - navigation.expand
         - search.suggest
         - search.highlight
-        
+
 # Extensions
 markdown_extensions:
   - footnotes
